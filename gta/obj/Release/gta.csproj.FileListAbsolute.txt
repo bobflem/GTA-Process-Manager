@@ -1,0 +1,20 @@
+C:\Users\adam\source\repos\gta\gta\bin\Release\gta.exe.config
+C:\Users\adam\source\repos\gta\gta\bin\Release\gta.exe
+C:\Users\adam\source\repos\gta\gta\bin\Release\gta.pdb
+C:\Users\adam\source\repos\gta\gta\obj\Release\gta.Form1.resources
+C:\Users\adam\source\repos\gta\gta\obj\Release\gta.Properties.Resources.resources
+C:\Users\adam\source\repos\gta\gta\obj\Release\gta.csproj.GenerateResource.cache
+C:\Users\adam\source\repos\gta\gta\obj\Release\gta.csproj.CoreCompileInputs.cache
+C:\Users\adam\source\repos\gta\gta\obj\Release\gta.exe
+C:\Users\adam\source\repos\gta\gta\obj\Release\gta.pdb
+C:\Users\adam\source\repos\gta\gta\obj\Release\gta.csprojAssemblyReference.cache
+Z:\Code\Visual Studio\gta\gta\bin\Release\gta.exe.config
+Z:\Code\Visual Studio\gta\gta\bin\Release\gta.exe
+Z:\Code\Visual Studio\gta\gta\bin\Release\gta.pdb
+Z:\Code\Visual Studio\gta\gta\obj\Release\gta.csprojAssemblyReference.cache
+Z:\Code\Visual Studio\gta\gta\obj\Release\gta.Form1.resources
+Z:\Code\Visual Studio\gta\gta\obj\Release\gta.Properties.Resources.resources
+Z:\Code\Visual Studio\gta\gta\obj\Release\gta.csproj.GenerateResource.cache
+Z:\Code\Visual Studio\gta\gta\obj\Release\gta.csproj.CoreCompileInputs.cache
+Z:\Code\Visual Studio\gta\gta\obj\Release\gta.exe
+Z:\Code\Visual Studio\gta\gta\obj\Release\gta.pdb
